@@ -1,3 +1,3 @@
 Added some text from VS code
 Learning from The Odin Project
-Third edit from VS code
+Third edit
